@@ -6,7 +6,7 @@ Código do projeto desenvolvido na série de vídeos nessa [playlist](https://ww
 
 ## Criando o embiente virtual (venv) no Windows
 
-Caso esteja no windows, rode o comando a seguir na raiz do prohjeto para criar o ambiente, caso não tenha criado antes:
+Caso esteja no windows, rode o comando a seguir na raiz do projeto para criar o ambiente, caso não tenha criado antes:
 ```
 python -m venv fastapi-env
 ```
